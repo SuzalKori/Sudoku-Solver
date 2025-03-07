@@ -3,3 +3,5 @@ A C++17-compatible header that provides useful functions which help with the sol
 
 # Contents
 [Usage](#Usage)
+
+# Usage

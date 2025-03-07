@@ -5,7 +5,7 @@ A C++17-compatible header that provides useful functions which help with the sol
 -[Usage](#Usage)
 -[Documentation](#Documentation)
 -[Examples](#Examples)
-  ● [Solving and validating a Sudoku puzzle](#Solving and validating a Sudoku puzzle)
+  ● [Solving and validating a Sudoku puzzle](###Solving and validating a Sudoku puzzle)
   ● [Generating a Sudoku puzzle](#Generating a Sudoku puzzle)
   ● [Initialising and reusing Grid objects](#Initialising and reusing Grid objects)
   ● [Reading Sudoku puzzles from a file](#Reading Sudoku puzzles from a file)
